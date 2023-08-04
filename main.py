@@ -2721,6 +2721,7 @@ async def redeem(ctx):
     print(myline)
     beforebetweenredeem = ";".join(myline.split(";", 3)[:3])
     betweenredeem = ";".join(myline.split(";", 3)[3:])
+    
     if float(betweenredeem) > float(time.time()):
         timedif = int(round(float(betweenredeem) - time.time()))
         timedif = timedif
