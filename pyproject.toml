@@ -1,0 +1,15 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+beautifulsoup4 = "*"
+"discord.py" = "==0.16.12"
+dnspython = "*"
+emoji = "*"
+flask = "*"
+google = "*"
+pymongo = "*"
+python = "^3.8"
+pytz = "^2019.3"

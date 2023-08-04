@@ -1,0 +1,9 @@
+discord
+discord.py==0.16.12
+flask
+beautifulsoup4
+google
+emoji
+pymongo
+dnspython
+pytz

@@ -1,0 +1,2 @@
+535571550733205504= Welcome to Veggie's Village, <member> You are member number <membercount>. Make sure to read the <#534175106260271125> and check out <#535886582473949195>. 
+505810204160688151= Welcome <member>! You are our <membercountending> member. 
